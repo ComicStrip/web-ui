@@ -147,8 +147,12 @@
   },
   {
     "appName": "Castopod",
-    "appUrl": "https://podlibre.org/tag/castopod-server/",
+    "appUrl": "https://castopod.org/",
     "supportedElements": [
+      {
+        "elementName": "Transcript",
+        "elementURL": "https://podlibre.org/castopod-supports-chapters-and-transcript-tags/"
+      },
       {
         "elementName": "Locked",
         "elementURL": "https://podlibre.org/castopod-supports-podcast-locking/"
@@ -156,6 +160,10 @@
       {
         "elementName": "Funding",
         "elementURL": "https://podlibre.org/publish-your-podcast-on-all-platforms/#podcastindex"
+      },
+      {
+        "elementName": "Chapters",
+        "elementURL": "https://podlibre.org/castopod-supports-chapters-and-transcript-tags/"
       }
     ]
   },
